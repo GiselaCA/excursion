@@ -11,9 +11,9 @@ h1{
 	text-align: center;
 }
 
-h4{
+h4, .link{
 	font-size: 16px;
-	color:aquamarine;
+	color:Aquamarine;
 }
 
 h2{
@@ -26,11 +26,21 @@ h2{
 p{
 	font-family: Verdana;
 	color: grey;
-	font-size: 21px
+	font-size: 21px;
 }
 
-.foot{
+.video{
+	margin: 20px;
+}
+
+.image, .image2{
+	margin: 20px;
+}
+	
+.footer{
+	float: right;
 	text-align: right;
-	color: grey;
+	color:grey;
+	font-size: 20px;
 }
 
